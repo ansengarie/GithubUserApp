@@ -1,0 +1,120 @@
+<resources>
+    <string name="app_name">GithubUserApp</string>
+
+    <string name="github_name">Nama User</string>
+    <string name="github_username">Username</string>
+    <string name="github_follower">Followers</string>
+    <string name="github_following">Following</string>
+    <string name="github_company">Company</string>
+    <string name="github_location">Location</string>
+    <string name="github_repository">Repository</string>
+    <string name="tv_company">Company</string>
+    <string name="tv_location">Location</string>
+    <string name="tv_followers">Followers</string>
+    <string name="tv_following">Following</string>
+    <string name="tv_repository">Repository</string>
+
+    <string-array name="data_github_name">
+        <item>Adinda Fadhil</item>
+        <item>Aji Nuansa</item>
+        <item>Aldi Ageng</item>
+        <item>Bayu Cucan</item>
+        <item>Fauzan Nursalma</item>
+        <item>Herlan Nurachman</item>
+        <item>Rayhan Abduhuda</item>
+        <item>Rifki Gema</item>
+        <item>Sahid Jafar</item>
+        <item>Suhendani</item>
+    </string-array>
+
+    <string-array name="data_github_username">
+        <item>didapatria</item>
+        <item>ansengarie</item>
+        <item>aldiageng</item>
+        <item>bayucucan</item>
+        <item>fauzannursalma</item>
+        <item>herlan_nurachman</item>
+        <item>eugbgt17</item>
+        <item>bangkigem</item>
+        <item>sahidjafar</item>
+        <item>suhendani99</item>
+    </string-array>
+
+    <array name="data_github_avatar">
+        <item>@drawable/adinda_fadhil</item>
+        <item>@drawable/aji_nuansa</item>
+        <item>@drawable/aldi_ageng</item>
+        <item>@drawable/bayu_cucan</item>
+        <item>@drawable/fauzan_nursalma</item>
+        <item>@drawable/herlan_nurachman</item>
+        <item>@drawable/rayhan_abduhuda</item>
+        <item>@drawable/rifki_gema</item>
+        <item>@drawable/sahid_jafar</item>
+        <item>@drawable/suhendani</item>
+    </array>
+
+    <string-array name="data_github_follower">
+        <item>1231</item>
+        <item>6545</item>
+        <item>345</item>
+        <item>7234</item>
+        <item>33</item>
+        <item>66</item>
+        <item>1632</item>
+        <item>96</item>
+        <item>36</item>
+        <item>38</item>
+    </string-array>
+
+    <string-array name="data_github_following">
+        <item>965</item>
+        <item>5375</item>
+        <item>257</item>
+        <item>6890</item>
+        <item>31</item>
+        <item>57</item>
+        <item>1639</item>
+        <item>47</item>
+        <item>17</item>
+        <item>19</item>
+    </string-array>
+
+    <string-array name="data_github_company">
+        <item>Gudang Garam</item>
+        <item>Bank Central Asia</item>
+        <item>Bank Rakyat Indonesia</item>
+        <item>Bank Mandiri</item>
+        <item>Telekomunikasi Indonesia</item>
+        <item>Bank Negara Indonesia</item>
+        <item>Garuda Indonesia</item>
+        <item>Astra Internasional</item>
+        <item>Indofood Sukses Makmur</item>
+        <item>Semen Indonesia</item>
+    </string-array>
+
+    <string-array name="data_github_location">
+        <item>Subang</item>
+        <item>Karawang</item>
+        <item>Pangandaran</item>
+        <item>Lembang</item>
+        <item>Bekasi</item>
+        <item>Bandung</item>
+        <item>Cirebon</item>
+        <item>Bandung Barat</item>
+        <item>Cimahi</item>
+        <item>Batujajar</item>
+    </string-array>
+
+    <string-array name="data_github_repository">
+        <item>23</item>
+        <item>28</item>
+        <item>18</item>
+        <item>76</item>
+        <item>39</item>
+        <item>12</item>
+        <item>26</item>
+        <item>24</item>
+        <item>10</item>
+        <item>13</item>
+    </string-array>
+</resources>
